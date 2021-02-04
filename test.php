@@ -1,8 +1,1 @@
-<?php
-
-
-
-echo 'test rthhfgjghjgjing';
-
-
-?>
+testing
